@@ -1,0 +1,26 @@
+.doboz{
+background-color:rgb(236, 116, 73);
+padding: 20px;
+width: 80%;
+border: 5px solid greenyellow;
+border-top: 40px dotted red;
+border-bottom:40px dotted red;
+margin: 50px;
+}
+
+#potyos{
+background-color: red;
+border: 10px dotted green ;
+
+}
+
+.doboz h1{
+margin: 0;
+background-color: orchid;
+
+}
+
+#vonalas{
+border: 20px double;
+
+}
